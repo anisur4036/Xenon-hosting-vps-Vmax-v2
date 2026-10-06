@@ -1,0 +1,30 @@
+{
+    "admin": {
+        "password": "XENON_OFC",
+        "role": "admin"
+    },
+    "MASHUK91143645": {
+        "password": "dzpvvdDxJz",
+        "role": "user",
+        "servers": [
+            {
+                "server_id": "f34ccbf0",
+                "login_url": "/f34ccbf0/login",
+                "dashboard_url": "/f34ccbf0/home",
+                "full_link": "http://localhost:5000/f34ccbf0/login",
+                "type": "python",
+                "ram": "1GB",
+                "disk": "1GB",
+                "status": "stopped",
+                "pid": null,
+                "created": "2026-10-05 11:32:20.084114",
+                "expiry": "2026-10-08 11:32:19.997515",
+                "main_file": "main.py",
+                "requirements_file": "requirements.txt",
+                "cpu_limit": 30,
+                "rate_limit_exceeded": false,
+                "stopped_by_user": false
+            }
+        ]
+    }
+}
